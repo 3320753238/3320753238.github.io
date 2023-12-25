@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[7684],{8572:e=>{e.exports=JSON.parse('{"label":"gitee","permalink":"/blog/tags/gitee","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
